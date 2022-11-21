@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Razi 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80F7EA&width=435&lines=Cybersecurity+engineering+student)](https://git.io/typing-svg)
 <!--
 **Razichennouf/Razichennouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
