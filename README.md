@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razichennouf&label=Profile%20views&color=0e75b6&style=flat" alt="razichennouf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razichennouf" alt="razichennouf" /></a> </p>
-
 ![header](https://github.com/Razichennouf/Razichennouf/assets/77803582/0a5bb4bb-81db-4cf8-b2f0-0da72da94532)
 
 - 💬 Ask me about **Linux**
