@@ -4,9 +4,6 @@
 
 ![header](https://github.com/Razichennouf/Razichennouf/assets/77803582/0a5bb4bb-81db-4cf8-b2f0-0da72da94532)
 
-- 💬 Ask me about **Linux**
-
-- ⚡ Fun fact **I'm 50% Geek**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
